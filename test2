@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>color</title>
+      <link rel="stylesheet" href="C:\Users\AKASH KUTHUPARAMBA\OneDrive\Desktop\Projects\myhtmalproject3\css.css">
+      <ul class="ul1">
+     
+        <li  class="li1"><a href="">home</a></li>
+        <li  class="li1"><button><a href="">tool</a></button> </li>
+        <li  class="li1"><a href=""> menu</a></li>
+      </ul>
+      <ul class="ul2">
+        <img src="icon.png">
+        <li class="li2"><input type="text" placeholder="search"></li>
+       
+      </ul>
+    </head>
+   
+    <body>
+        <h1>Trending Color Paletts</h1>
+    <p>get inspired by thousands of beautifull</p>
+    <p>color schemes and make somthing cool</p>
+   <table class="table">
+     <thead>
+        <td class="td1">gold</td>
+        <td class="td2">silver</td>
+        <td class="td3">blue</td>
+        <td class="td4">black</td>
+     </thead>
+   </table>
+    </body>
+</html>
